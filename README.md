@@ -1,2 +1,3 @@
-# lanya_weight_project
-体重秤体脂秤蓝牙链接
+# Weighing project
+
+体脂体重秤相关

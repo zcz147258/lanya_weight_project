@@ -1,0 +1,91 @@
+.person {
+  padding-bottom: 150rpx;
+}
+.person input {
+  direction: rtl;
+  height: 60rpx;
+}
+.person .custom2 {
+  color: #3B4144;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 92rpx;
+  line-height: 92rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 0 50rpx 0 30rpx;
+  font-size: 28rpx;
+}
+.person .center .custom {
+  color: #3B4144;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  height: 92rpx;
+  line-height: 92rpx;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 0 50rpx 0 30rpx;
+  font-size: 28rpx;
+}
+.person .center .custom input {
+  text-align: right;
+}
+.person .bottom {
+  padding: 30rpx 50rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-justify-content: space-around;
+          justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.person .bottom .bottom_item {
+  margin-bottom: 40rpx;
+  color: #C2C2C2;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  font-size: 25rpx;
+}
+.person .fixed {
+  padding: 30rpx;
+  position: fixed;
+  bottom: 10rpx;
+  width: 90%;
+  height: 100rpx;
+  z-index: 998;
+}
+.person .fixed view {
+  color: white;
+  font-size: 35rpx;
+  font-weight: 480;
+  text-align: center;
+  background: -webkit-linear-gradient(#FFC747, #FE9105);
+  background: linear-gradient(#FFC747, #FE9105);
+  height: 100rpx;
+  line-height: 100rpx;
+  border-radius: 60rpx;
+}
+
